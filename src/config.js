@@ -36,16 +36,6 @@ export const POINT_STARS_CONTRACT_DURATION = 6_000;
 /** Target orbit radius (scene units) for point-star contraction */
 export const TARGET_RADIUS = 95;
 
-// ─── Moving Stars ─────────────────────────────────────────────
-/** Number of golden shooting stars */
-export const MOVING_STAR_COUNT = 15;
-
-/** Trail particles emitted per star (comet tail length) */
-export const TRAIL_PER_STAR = 12;
-
-/** Spacing (scene units) between each trail segment */
-export const TRAIL_SPACING = 6;
-
 /** Remote texture URLs */
 export const TEXTURES = {
   sky:     'https://i.ibb.co/HC0vxMw/sky2.jpg',

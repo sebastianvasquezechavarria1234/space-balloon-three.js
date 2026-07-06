@@ -1,6 +1,6 @@
 <div align="center">
 
-![Space Balloon](https://img.shields.io/badge/Space%20Balloon-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
 
 # Space Balloon
 
@@ -13,8 +13,9 @@
 <br />
 
 *A procedural universe born from mathematics and light.*
+![Space Balloon](https://img.shields.io/badge/Space%20Balloon-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-[**Explore Live Demo**](https://space-balloon-three.js.vercel.app/) · [**View Source Code**](https://github.com/sebastianvasquezechavarria1234/space-balloon-three.js)
+[**Explore Live Demo**](https://space-balloon-three-js.vercel.app/) · [**View Source Code**](https://github.com/sebastianvasquezechavarria1234/space-balloon-three.js)
 
 </div>
 
@@ -247,16 +248,6 @@ The scene is designed to run smoothly on mid-range hardware:
 
 ---
 
-## Author
-
-**Sebastian Vasquez**
-
-| | |
-|---|---|
-| Portfolio | [sebas-dev.vercel.app](https://sebas-dev.vercel.app/) |
-| GitHub | [@sebastianvasquezechavarria1234](https://github.com/sebastianvasquezechavarria1234) |
-
----
 
 <div align="center">
 

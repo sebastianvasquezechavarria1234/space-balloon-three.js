@@ -13,9 +13,8 @@
 
 ![Space Balloon](https://img.shields.io/badge/Space%20Balloon-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-<br />
-*A procedural universe born from mathematics and light.*
 ![Preview](img/preview.jpg)
+*A procedural universe born from mathematics and light.*
 <br />
 
 

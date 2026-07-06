@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="An interactive 3D space scene with animated nucleus, stars, comets and planets built with Three.js." />
+    <title>Space Balloon — Interactive 3D Scene</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+        }
+      }
+    </script>
+  </head>
+
+  <body>
+    <!-- Hint banner (auto-hides on first interaction) -->
+    <div class="banner" id="interactionBanner">
+      You can zoom in and click and drag to explore the scene.
+    </div>
+
+    <!-- Navigation buttons -->
+    <a
+      href="https://www.isladjan.com/about/"
+      class="btn btn-left"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      My Works
+    </a>
+    <button class="btn btn-right" id="fullscreenBtn">Go Fullscreen</button>
+
+    <!-- Three.js mount point -->
+    <div class="webgl" id="webgl"></div>
+
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>

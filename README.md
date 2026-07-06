@@ -12,9 +12,11 @@
 
 
 ![Space Balloon](https://img.shields.io/badge/Space%20Balloon-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Preview](img/preview.jpg)
+
 <br />
 *A procedural universe born from mathematics and light.*
+![Preview](img/preview.jpg)
+<br />
 
 
 [**Explore Live Demo**](https://space-balloon-three-js.vercel.app/) · [**View Source Code**](https://github.com/sebastianvasquezechavarria1234/space-balloon-three.js)

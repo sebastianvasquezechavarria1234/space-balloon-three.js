@@ -73,7 +73,6 @@ export class Effect {
     this._createElements();
     this._createMovingStars();
     this._createPointElements();
-    this._initFullscreenButton();
     this._initBanner();
 
     // Load all textures, then apply them
@@ -230,18 +229,6 @@ export class Effect {
   }
 
   // ─── UI helpers ───────────────────────────────────────────────
-
-  _initFullscreenButton() {
-    document.getElementById('fullscreenBtn').addEventListener('click', () => {
-      if (!document.fullscreenElement) {
-        document.documentElement.requestFullscreen().catch((err) =>
-          console.warn('Fullscreen error:', err.message)
-        );
-      } else {
-        document.exitFullscreen?.();
-      }
-    });
-  }
 
   _initBanner() {
     const banner = document.getElementById('interactionBanner');

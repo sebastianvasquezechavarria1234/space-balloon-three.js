@@ -10,11 +10,11 @@
 [![Three.js](https://img.shields.io/badge/Three.js-v0.161-049EF4)](https://threejs.org/)
 [![JavaScript](https://img.shields.io/badge/ES2022-JavaScript-F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<br />
 
-*A procedural universe born from mathematics and light.*
 ![Space Balloon](https://img.shields.io/badge/Space%20Balloon-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Preview](img/preview.jpg)
+<br />
+*A procedural universe born from mathematics and light.*
 
 
 [**Explore Live Demo**](https://space-balloon-three-js.vercel.app/) · [**View Source Code**](https://github.com/sebastianvasquezechavarria1234/space-balloon-three.js)
